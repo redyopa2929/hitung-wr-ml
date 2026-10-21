@@ -1,0 +1,15 @@
+title: "Hitung WR ML — Kalkulator Win Rate Mobile Legends"
+description: "Hitung WR ML gratis: berapa win beruntun untuk target WR, cek WR dari menang & kalah, simulasi lose streak, dan tabel target 50–90%. Hasil eksak tanpa galat."
+lang: id
+locale: id_ID
+url: "https://redyopa2929.github.io"
+baseurl: "/hitung-wr-ml"
+author: redyopa2929
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - tests
+  - __pycache__
+  - .gitignore
